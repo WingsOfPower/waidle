@@ -1,0 +1,50 @@
+Library - PyGame
+
+Topic - An idle game about collecting water and selling it.
+
+Ideas - 
+(v0.1)Your water is worth more the cleaner it is.
+
+(v0.2)The amount of people you have affects the amount money you have(after you rebirth or restart)
+
+(v0.1)The first upgrade you can do is clean water through the SODIS meathod
+
+(v0.1)The second upgrade allows you too use a coffee filter
+
+(v0.1)You can upgrade the upgrades to make them cleaner
+
+(v0.1)All Upgrades top levels are 100
+
+(v0.1)Upgrade levels increase the amount of money that upgrade adds to your water by a set amount
+
+(v0.1)Everything automates after the purchase of an upgrade, however its slow and needs to be upgraded
+
+(v0.2)Water multipliers like flavoring or extra cleaner can be applied to upgrades as upgrade multipliers
+(v0.2)Water multipliers can also be human reviewers as well as other cleaners(Ex: Silly stuff such as bleach)
+
+Start - collecting water from a river
+
+First upgrade - Pour water from river through the sun then to people
+
+Second upgrade - Water from the SODIS meathod then poured into coffee filter
+
+Third upgrade - Water from coffe filter poured into Ceramic filter
+
+Fourth upgrade - Water from Ceramic filter poured into boiling pot
+
+Fith upgrade - Water from Ceramic filter poured into filtration system
+
+Sixth upgrade - Water from Filtration system poured into Carbon filtration system
+
+Seventh upgrade - Water from Carbon filtration system poured into Distillation chamber
+
+Eighth upgrade - Water from Distillation chamber poured into Reverse osmoser
+
+Ninth upgrade - Water from Reverse osmoser poured into Membrane filtration system
+
+Final upgrade - Water from Membrane filtration system into Atmospheric water generator  
+
+
+
+
+
